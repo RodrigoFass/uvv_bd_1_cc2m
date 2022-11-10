@@ -20,7 +20,7 @@ Cada repositório possui uma área de trabalho acoplada e as operações commit 
 
 - Em seguida fiz o Modelo do Elmasri (3.2)
 
-![Screenshot_1111](https://user-images.githubusercontent.com/103529923/165406369-ae162e28-82a2-4913-a559-f15bde3f338d.png)
+![HR](https://user-images.githubusercontent.com/103529923/201179622-2a3c10a2-3063-42ab-9b10-67dae70e6a2c.png)
 
 ---
 
